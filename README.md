@@ -4,7 +4,7 @@ Marketing Analytics | CRM | Performance Analytics
 
 Profesional de marketing orientado al análisis de desempeño, CRM, email marketing y toma de decisiones basada en datos.
 
-## Tools
+## Herramientas
 
 - Power BI
 - Google Analytics
@@ -12,7 +12,7 @@ Profesional de marketing orientado al análisis de desempeño, CRM, email market
 - Odoo CRM
 - Email Marketing
 
-## Areas of Interest
+## Áreas de interés
 
 - Marketing Analytics
 - CRM
@@ -20,12 +20,12 @@ Profesional de marketing orientado al análisis de desempeño, CRM, email market
 - Dashboard Reporting
 - KPI Monitoring
 
-## Projects
+## Proyectos
 
 - Power BI Sales Dashboard
 - Power BI Business Dashboard
 
-## Contact
+## Contacto
 
 LinkedIn:
 www.linkedin.com/in/carlos-canales-marketing/
