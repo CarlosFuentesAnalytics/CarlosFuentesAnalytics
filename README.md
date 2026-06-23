@@ -1,34 +1,37 @@
 # Carlos Antonio Fuentes Canales
 
-**Marketing Analytics | CRM | Performance Analytics**
+Marketing Analytics | CRM | Performance Analytics
 
-Profesional de marketing orientado al análisis de desempeño, CRM, email marketing y toma de decisiones basada en datos.
+Professional focused on marketing analytics, CRM, email marketing and data-driven decision making.
 
-## Áreas de interés
-- CRM Analytics
-- Performance Analytics
-- Email Marketing
-- KPI Monitoring
-- Dashboard Reporting
-- Customer Insights
-- Data-Driven Decision Making
+## Tools
 
-## Herramientas
-- Odoo CRM
-- Google Analytics
 - Power BI
+- Google Analytics
 - Microsoft Excel
+- Odoo CRM
 - Email Marketing
-- LinkedIn Ads
-- Meta Business Suite
 
-## Proyectos destacados
-- CRM Performance Dashboard
-- Email Campaign Analysis
+## Areas of Interest
 
-## Contacto
-- LinkedIn: www.linkedin.com/in/carlos-canales-marketing/
-- Email: carloscanales_18@hotmail.com
+- Marketing Analytics
+- CRM
+- Performance Analytics
+- Dashboard Reporting
+- KPI Monitoring
+
+## Projects
+
+- Power BI Sales Dashboard
+- Power BI Business Dashboard
+
+## Contact
+
+LinkedIn:
+www.linkedin.com/in/carlos-canales-marketing/
+
+Email:
+carloscanales_18@hotmail.com
 
 <!--
 **CarlosFuentesAnalytics/CarlosFuentesAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
