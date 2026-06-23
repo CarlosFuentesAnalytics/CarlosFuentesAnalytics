@@ -2,7 +2,7 @@
 
 Marketing Analytics | CRM | Performance Analytics
 
-Professional focused on marketing analytics, CRM, email marketing and data-driven decision making.
+Profesional de marketing orientado al análisis de desempeño, CRM, email marketing y toma de decisiones basada en datos.
 
 ## Tools
 
