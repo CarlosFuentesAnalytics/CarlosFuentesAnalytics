@@ -1,4 +1,4 @@
-# Carlos Antonio Fuentes Canales
+# ¡Hola! soy Carlos Antonio Fuentes Canales
 
 Marketing Analytics | CRM | Performance Analytics
 
@@ -20,10 +20,10 @@ Profesional de marketing orientado al análisis de desempeño, CRM, email market
 - Dashboard Reporting
 - KPI Monitoring
 
-## Proyectos
+## Proyectos destacados
 
-- Power BI Sales Dashboard
-- Power BI Business Dashboard
+- Dashboard de Ventas en Power BI
+- Dashboard de Análisis Empresarial en Power BI
 
 ## Contacto
 
